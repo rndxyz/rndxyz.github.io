@@ -202,14 +202,13 @@ a.border-merah:hover{
 /* Hero Section */
 
 #hero-section{
-    /* background: url(../image/banner.jpg); */
+    background: url(../image/banner.jpg);
     background-position: 0px 50px;
     background-size: cover;
     position: center;
     height: 550px;
     padding: 0px;
     position: relative;
-    background-attachment: fixed;
     z-index: 999;
 }
 

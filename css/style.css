@@ -561,6 +561,10 @@ a.border-merah:hover{
     #buy .links{
         row-gap: 1rem;
     }
+    .text-mnc{
+        font-size: 26px !important;
+        color: var(--mnc) !important;
+    }
 
     #buy .links a{
         width: 200px;
